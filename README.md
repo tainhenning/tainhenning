@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tainhenning
+- 👀 I’m interested in Deep Learning and Full Stack Development
+- 🌱 I’m currently learning Keras, Typescript, and Next.js
+- 📫 Contact me over Twitter @mounthenning or Email me at mountainhenning@gmail.com
